@@ -15,7 +15,7 @@ O dev.finances é uma aplicação de controle financeiro, onde é possível cada
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo para mais detalhes.
 
 ---
 
