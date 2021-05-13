@@ -1,5 +1,8 @@
-## 🚀 Tecnologias
+## Dev.Finance$
+![Captura de tela 2021-05-13 001627](https://user-images.githubusercontent.com/57048555/118074412-3b7c7800-b384-11eb-9a78-3216f0cbd353.jpg)
 
+
+## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
@@ -9,10 +12,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O dev.finances é uma aplicação de controle financeiro, onde é possível cadastrar e excluir transações e ver o saldo de entrada e saída 💰
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
